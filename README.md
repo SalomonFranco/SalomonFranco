@@ -28,5 +28,6 @@
 </p>
 
 
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salomonfranco&bg_color=ffffff&color=000000&line=49df20&point=e88459&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://myreadme.vercel.app/api/embed/salomonfranco?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<a href="https://www.linkedin.com/in/salomon-franco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/salomonfranco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
