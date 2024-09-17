@@ -24,10 +24,7 @@
 <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" alt="SQL" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180920/fst/kisspng-ruby-on-rails-application-software-web-framework-w-web-sips-amp-bits-by-michelada-io-1713935619682.webp" alt="ruby" width="40" height="40"/> </a> 
 </p>
-
-
-<img src="https://myreadme.vercel.app/api/embed/salomonfranco?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <a href="https://www.linkedin.com/in/salomon-franco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/salomonfranco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
