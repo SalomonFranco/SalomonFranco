@@ -2,16 +2,8 @@
 
 <h3 align="center">A Software Developer based on Barcelona</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 📚 I’m always learning **new programming languages**
-
-- 🧠 I possess **effective communication, collaboration, and adaptability. Combined with technical expertise, problem-solving abilities, and a growth mindset, bringing valuable contributions to programming teams.**
-
-- 👨🏻‍💻 Fun fact: **Many programmers find coding to be a form of creative expression.**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -26,5 +18,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180920/fst/kisspng-ruby-on-rails-application-software-web-framework-w-web-sips-amp-bits-by-michelada-io-1713935619682.webp" alt="ruby" width="40" height="40"/> </a> 
 </p>
+<p align="center">
 <a href="https://www.linkedin.com/in/salomon-franco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/salomonfranco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
